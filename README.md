@@ -10,3 +10,11 @@ Repositório para discussão e divulgação dos trabalhos realizados pela comiss
 * Geidson Benício;
 * Eugênio Marques;
 * Rafael Dias;
+
+## Atas de reuniões e Deliberações
+
+Visite nossa [wiki](https://github.com/Sysvale/careers/wiki)!
+
+## Discussões em andamento
+
+Veja nossas [issues](https://github.com/Sysvale/careers/issues)!
