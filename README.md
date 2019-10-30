@@ -18,3 +18,7 @@ Visite nossa [wiki](https://github.com/Sysvale/careers/wiki)!
 ## Discussões em andamento
 
 Veja nossas [issues](https://github.com/Sysvale/careers/issues)!
+
+## Material de apoio
+
+Os materiais de apoio podem ser encontrados nesse [repositório](https://github.com/Gabrielr2508/awesome-career-paths)
