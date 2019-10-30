@@ -1,6 +1,6 @@
 # Carreiras Sysvale
 
-Repositório para discussão e divulgação dos trabalhos realizados pela comissão de plano de carreira da Sysvale
+Repositório para discussão e divulgação dos trabalhos realizados pela Comissão de Planos de Carreiras da Sysvale
 
 ## Comissão de Plano de Carreiras
 
