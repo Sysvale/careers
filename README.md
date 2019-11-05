@@ -10,6 +10,9 @@ Repositório para discussão e divulgação dos trabalhos realizados pela Comiss
 * Geidson Benício;
 * Eugênio Marques;
 * Rafael Dias;
+* Isabela Tito;
+* Marina de Paula;
+* Pâmela Horrana;
 
 ## Atas de reuniões e Deliberações
 
