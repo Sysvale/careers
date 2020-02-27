@@ -4,15 +4,9 @@ Repositório para discussão e divulgação dos trabalhos realizados pela Comiss
 
 ## Comissão de Plano de Carreiras
 
-* Carlos Eduardo;
 * Gabriel Gomes;
-* Ítalo André;
-* Geidson Benício;
-* Eugênio Marques;
 * Rafael Dias;
-* Isabela Tito;
 * Marina de Paula;
-* Pâmela Horrana;
 
 ## Atas de reuniões e Deliberações
 
